@@ -1,6 +1,8 @@
 # luzon-1899-3D
 3D render of an old map of Luzon Philippines with current digital elevation data.
 
+https://cj-sv.github.io/luzon-1899-3D/
+
 Software:
 
 QGIS with qgis2threejs
